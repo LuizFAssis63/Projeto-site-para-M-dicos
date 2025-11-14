@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O site foi criado para ser um chamativo de marketing para médicos.
 
-- [Acesse o projeto finalizado, online](https://luizfassis63.github.io/Projeto-DevLinks-Dra-Larissa-Assis/)
+- [Acesse o projeto finalizado, online](https://github.com/LuizFAssis63/Projeto-site-para-M-dicos)
 
 
 
