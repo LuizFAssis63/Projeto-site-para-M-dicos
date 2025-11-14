@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Projeto Site para médicos </h1>
 
 <p align="center">
 Protótipo de site, pensado para médicos.
@@ -18,7 +18,7 @@ Protótipo de site, pensado para médicos.
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/preview.jpg" width="100%">
+  <img alt="projeto site para médicos" src="./PNG-SITE.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
